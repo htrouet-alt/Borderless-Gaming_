@@ -1,61 +1,28 @@
-<a href="https://store.steampowered.com/app/388080/Borderless_Gaming/?utm_source=github&amp;utm_campaign=f2p" target="_blank">
-  <div style="width: 600px; border: 1px solid #ccc; border-radius: 4px; overflow: hidden;">
-    <img src="https://production.worker-lingering-dust-86c7.andrew-03e.workers.dev" style="width: 100%; height: 500px;"></img>
-  </div>
-</a>
+This repository is a community-built fork of the original Borderless Gaming project.
 
+This fork is not actively developed and may not be up to date with the latest Steam version.
 
-# What is this?
+It contains a prebuilt installer for convenience, but no changes have been made to the original source code.
 
-Borderless Gaming is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects
+These builds are not signed, so they may trigger warnings from windows or antivirus software.
 
-The project is open source under the [GNU General Public License v2.0](https://github.com/Codeusa/Borderless-Gaming/blob/master/LICENSE).
+It exists solely to build and distribute the open-source GPL version of Borderless Gaming.
 
+If you are able to do so, please support the original developer by purchasing the Steam version.
 
-![Before Borderless-Gaming](http://cdn.akamai.steamstatic.com/steam/apps/388080/ss_a599d209638e8db8af430b7e9028c490c3c24f78.1920x1080.jpg?t=1437672493)
+The Steam version is the officially supported release and includes the latest updates and fixes:
+https://store.steampowered.com/app/388080/Borderless_Gaming/
 
-![After Borderless-Gaming](http://cdn.akamai.steamstatic.com/steam/apps/388080/ss_3f6206f211ea573e6013665f5bca126c6ba895ce.1920x1080.jpg?t=1437672493)
+This fork is intended for:
 
-![Image](http://cdn.akamai.steamstatic.com/steam/apps/388080/ss_0bb8cabe18249b7fdc16376723e0fd6110bd7c4e.1920x1080.jpg?t=1437672493)
+users who already own the Steam version and want a standalone build, or
 
+users who rely on the free/open-source version for compatibility or accessibility reasons.
 
-## How to install and run Borderless-Gaming
+No attempt is made here to replace, compete with, or undermine the Steam release.
 
-#### Buy through Steam and run it
-[Can be purchased here](http://store.steampowered.com/app/388080).
+Source code and license remain unchanged and are provided under GPLv2, as originally published.
 
-#### Install from Source
+Also as a note, I do not have the ability to provide support for this fork.
 
-- Clone with repository 
-
-- Open the solution inside Visual Studio 2017
-
-- Select the "Release" option 
-
-- Build the projects and use the generated executable
-
-
-#### Usage
-[A detailed guide can be found here](https://steamcommunity.com/app/388080/discussions/0/535151589899658778/).
-
-#### Need help?
-contact me on my [Website](http://andrew.im) 
-
-or if you're suffering from crashes or bugs submit information [here](https://github.com/Codeusa/Borderless-Gaming/issues?state=open)
-
-
-## Helping Borderless-Gaming 
-
-**I want to help with the code:** I accept pull-requests, please see the [Contributing to Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming/blob/master/CONTRIBUTING.md) guide for information on contributing to this project. And don't forget to add your contact informations on the AUTHORS list.
-
-**I found a bug:** File it as an [issue](https://github.com/Codeusa/Borderless-Gaming/issues) and please describe as much as possible the bug and the context.
-
-**I have a new suggestion:** For feature requests please first check [the issues list](https://github.com/Codeusa/Borderless-Gaming/issues) to see if it's already there. If not, feel free to file it as an issue and to define the label **enhancement**.
-
-## Contact info
-
-* **Twitter:** [@AndrewMD5](https://twitter.com/andrewmd5)
-* **Blog:** [blog.andrew.im](https://andrew.im)
-
-# Join our Steam Group!
-[Borderless Gaming on Steam](https://steamcommunity.com/app/388080/discussions/)
+Thank you for your understanding and support of the original developer!

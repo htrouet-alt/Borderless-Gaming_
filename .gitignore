@@ -111,3 +111,4 @@ UpgradeLog*.XML
 .vs/
 .vscode/
 Installers/*setup.exe
+*.exe
