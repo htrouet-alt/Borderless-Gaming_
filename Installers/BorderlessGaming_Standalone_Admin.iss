@@ -74,7 +74,7 @@ Source: "../LICENSE"; DestName: "License.txt"; DestDir: "{app}"
 Source: "../README.md"; DestName: "Read Me.txt"; DestDir: "{app}"
 
 ; Language files -> AppData (do not overwrite user edits)
-Source: "../BorderlessGaming/Languages/*"; DestDir: "{code:GetUserDataDir}"; Flags: recursesubdirs createallsubdirs onlyifdoesntexist
+Source: "../BorderlessGaming/Languages/*"; DestDir: "{code:GetUserDataDir}\Languages"; Flags: recursesubdirs createallsubdirs
 
 [Tasks]
 Name: desktopicon; Description: "Create a desktop icon"
@@ -85,8 +85,3 @@ Name: "{group}\Borderless Gaming"; Filename: "{app}\BorderlessGaming.exe"
 Name: "{group}\Uninstall Borderless Gaming"; Filename: "{uninstallexe}"
 Name: "{group}\License Agreement"; Filename: "{app}\License.txt"
 Name: "{group}\Read Me"; Filename: "{app}\Read Me.txt"
-
-[Run]
-Filename: "{app}\BorderlessGaming.exe"; Flags: skipifsilent
-
-
